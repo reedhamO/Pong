@@ -1,0 +1,8 @@
+For PlayerA,  [ CAPS lock should be turned off ]
+	w - for moving up
+	s - for moving down
+
+For PlayerB,
+	 up arrow - for moving up
+	 down arrow - for moving down
+ 
