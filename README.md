@@ -3,4 +3,4 @@
 Made using Python using Turtle module.
 
 ### Pong v2.0
-Made using Python with Pygame module and SQL databse
+Made using Python with Pygame module and SQL databse. It was also our school project.
